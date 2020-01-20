@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Jourmey.PictureCmdHelper
+namespace Jourmey.PictureCmdOperater.PictureOperates
 {
-    class Program
+    class PictureThumbnailOperateInfo
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }

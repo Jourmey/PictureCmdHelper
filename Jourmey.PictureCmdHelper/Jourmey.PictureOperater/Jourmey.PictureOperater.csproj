@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D5C0A0D7-F2E1-4557-8F5F-E23D50A536CB}</ProjectGuid>
+    <ProjectGuid>{953A3268-219C-4243-8E48-91025DDB755E}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Jourmey.Picture</RootNamespace>
-    <AssemblyName>Jourmey.Picture</AssemblyName>
+    <RootNamespace>Jourmey.PictureOperater</RootNamespace>
+    <AssemblyName>Jourmey.PictureOperater</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>

@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Jourmey.Picture
+namespace Jourmey.PictureOperater
 {
     /// <summary>
     /// MainWindow.xaml 的交互逻辑

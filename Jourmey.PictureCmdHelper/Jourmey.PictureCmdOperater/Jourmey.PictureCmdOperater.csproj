@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1FE2E917-5F55-4EF4-915A-50FEC64B57CC}</ProjectGuid>
+    <ProjectGuid>{BEBC0D46-0A16-4AC0-BBBD-1D5B96F22279}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Jourmey.PictureCmdHelper</RootNamespace>
-    <AssemblyName>Jourmey.PictureCmdHelper</AssemblyName>
+    <RootNamespace>Jourmey.PictureCmdOperater</RootNamespace>
+    <AssemblyName>Jourmey.PictureCmdOperater</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

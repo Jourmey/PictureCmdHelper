@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Jourmey.Picture.Properties
+namespace Jourmey.PictureOperater.Properties
 {
 
 

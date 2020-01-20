@@ -1,7 +1,7 @@
-﻿<Application x:Class="Jourmey.Picture.App"
+﻿<Application x:Class="Jourmey.PictureOperater.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:Jourmey.Picture"
+             xmlns:local="clr-namespace:Jourmey.PictureOperater"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
          
